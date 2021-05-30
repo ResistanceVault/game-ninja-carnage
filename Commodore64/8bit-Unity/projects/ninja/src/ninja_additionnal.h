@@ -1,0 +1,1 @@
+void waitRaster(unsigned char raster);

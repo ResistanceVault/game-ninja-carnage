@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NinjaTool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Level01.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level02.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level11.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level12.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level13.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level21.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level22.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level23.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level31.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level32.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level33.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level41.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level42.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level43.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level51.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level52.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level53.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Levelc1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level61.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level62.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level63.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level71.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level72.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level73.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level81.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level82.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level83.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level91.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level92.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level93.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Levelc2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Levelc3.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Leveld1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Levelz1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Levelz2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Levelz3.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

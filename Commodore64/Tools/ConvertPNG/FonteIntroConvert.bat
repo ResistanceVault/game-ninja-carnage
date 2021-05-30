@@ -1,0 +1,1 @@
+ConvertPNG.exe FonteIntro.png ForceColor=01B

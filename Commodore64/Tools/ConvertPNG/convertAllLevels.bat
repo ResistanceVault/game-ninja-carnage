@@ -1,0 +1,34 @@
+ConvertPNG.exe Pic01.png
+ConvertPNG.exe Pic02.png
+ConvertPNG.exe Pic11.png
+ConvertPNG.exe Pic12.png
+ConvertPNG.exe Pic13.png
+ConvertPNG.exe Pic21.png
+ConvertPNG.exe Pic22.png
+ConvertPNG.exe Pic23.png
+ConvertPNG.exe Pic31.png
+ConvertPNG.exe Pic32.png
+ConvertPNG.exe Pic33.png
+ConvertPNG.exe Pic41.png
+ConvertPNG.exe Pic42.png
+ConvertPNG.exe Pic43.png
+ConvertPNG.exe Pic51.png
+ConvertPNG.exe Pic52.png
+ConvertPNG.exe Pic53.png
+ConvertPNG.exe Pic61.png
+ConvertPNG.exe Pic62.png RemoveFirstPalette
+ConvertPNG.exe Pic63.png
+ConvertPNG.exe Pic71.png
+ConvertPNG.exe Pic72.png
+ConvertPNG.exe Pic73.png
+ConvertPNG.exe Pic81.png
+ConvertPNG.exe Pic82.png
+ConvertPNG.exe Pic83.png
+ConvertPNG.exe Pic91.png
+ConvertPNG.exe Pic92.png
+ConvertPNG.exe Pic93.png
+ConvertPNG.exe Picc1.png
+ConvertPNG.exe Picc2.png
+ConvertPNG.exe Picc3.png
+ConvertPNG.exe Picd1.png
+
