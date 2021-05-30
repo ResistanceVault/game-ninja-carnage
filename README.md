@@ -65,3 +65,6 @@ Commodore 64
 
 **File-size:**
 2 Disk
+
+Ninja Carnage C64 is using **8bit-Unity**
+http://8bit-unity.com/
